@@ -9,3 +9,5 @@ Extend
 Burgess, John P. & Rosen, Gideon (1997). *A Subject with No Object: Strategies for Nominalistic Interpretation of Mathematics*. Oxford University Press.
 </br>
 Bradley Armour-Garb and Frederick Kroon (eds.), *Fictionalism in Philosophy*, Oxford University Press, 2020.
+Barbero, C. ; Ferraris, M. & Voltolini, A. (eds.) (2013). *From Fictionalism to Realism*. Cambridge Scholars Press.
+
