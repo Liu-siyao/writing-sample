@@ -14,4 +14,6 @@ Meinong is famous for his theory of objects. For he claimed that “object” no
 
 Meinong pointed out that every object has "characteristics", and the characteristics are independent of the existence of the object; some objects do not have characteristics that contradict its existence, which he calls "possible objects". Some of these possible objects exist and some do not exist, such as the golden mountain. He also pointed out that some objects have the characteristics that contradict or even repel its existence, which he calls "impossible objects". Such objects can not be found in reality, e.g. “the square of a circle”. In his view, all objects whether their characteristics and existence are contradictory or not, are not created by us, nor do they depend on our thinking activities. He stressed that the object as a whole is far beyond the scope of reality.
 
-That means non-existent objects can be objective and even true. On the other hand, fictionalism holds that non-existent objects can be accepted on account of our practices, but they can not be true. 
+That means non-existent objects can be objective and even true. On the other hand, fictionalism holds that non-existent objects can be accepted on account of our practices, but they can not be true.
+
+2021-3 draft
